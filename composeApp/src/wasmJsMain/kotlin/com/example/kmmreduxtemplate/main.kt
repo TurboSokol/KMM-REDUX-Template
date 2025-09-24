@@ -1,8 +1,8 @@
-package com.example.kmmreduxtemplate
+package com.turbosokol.kmmreduxtemplate
 
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.window.ComposeViewport
-import com.example.kmmreduxtemplate.di.initKoinForCompose
+import com.turbosokol.kmmreduxtemplate.di.initKoinForCompose
 import kotlinx.browser.document
 
 /***

@@ -1,4 +1,4 @@
-package com.example.kmmreduxtemplate
+package com.turbosokol.kmmreduxtemplate
 
 import io.ktor.client.request.*
 import io.ktor.client.statement.*

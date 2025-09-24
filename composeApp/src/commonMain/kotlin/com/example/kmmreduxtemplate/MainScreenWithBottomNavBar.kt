@@ -1,4 +1,4 @@
-package com.example.kmmreduxtemplate
+package com.turbosokol.kmmreduxtemplate
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.WindowInsets
@@ -15,14 +15,14 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
-import com.example.kmmreduxtemplate.components.IQBottomNavItemView
-import com.example.kmmreduxtemplate.core.redux.app.AppState
-import com.example.kmmreduxtemplate.navigation.NavigationAction
-import com.example.kmmreduxtemplate.navigation.NavigationState
-import com.example.kmmreduxtemplate.screens.HomeScreen
-import com.example.kmmreduxtemplate.screensStates.HomeScreenState
-import com.example.kmmreduxtemplate.values.Dimensions
-import com.example.kmmreduxtemplate.viewmodel.ReduxViewModel
+import com.turbosokol.kmmreduxtemplate.components.IQBottomNavItemView
+import com.turbosokol.kmmreduxtemplate.core.redux.app.AppState
+import com.turbosokol.kmmreduxtemplate.navigation.NavigationAction
+import com.turbosokol.kmmreduxtemplate.navigation.NavigationState
+import com.turbosokol.kmmreduxtemplate.screens.HomeScreen
+import com.turbosokol.kmmreduxtemplate.screensStates.HomeScreenState
+import com.turbosokol.kmmreduxtemplate.values.Dimensions
+import com.turbosokol.kmmreduxtemplate.viewmodel.ReduxViewModel
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
 import kotlinx.coroutines.Dispatchers

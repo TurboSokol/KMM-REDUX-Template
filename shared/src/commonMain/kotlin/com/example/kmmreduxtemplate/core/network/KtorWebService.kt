@@ -1,7 +1,7 @@
-package com.example.kmmreduxtemplate.core.network
+package com.turbosokol.kmmreduxtemplate.core.network
 
-import com.example.kmmreduxtemplate.data.ApiResponse
-import com.example.kmmreduxtemplate.data.ErrorResponse
+import com.turbosokol.kmmreduxtemplate.data.ApiResponse
+import com.turbosokol.kmmreduxtemplate.data.ErrorResponse
 import io.ktor.client.HttpClient
 import io.ktor.client.HttpClientConfig
 import io.ktor.client.call.NoTransformationFoundException

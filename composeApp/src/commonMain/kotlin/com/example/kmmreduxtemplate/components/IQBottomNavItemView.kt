@@ -1,4 +1,4 @@
-package com.example.kmmreduxtemplate.components
+package com.turbosokol.kmmreduxtemplate.components
 
 import androidx.compose.animation.core.FastOutSlowInEasing
 import androidx.compose.animation.core.TweenSpec
@@ -29,7 +29,7 @@ import androidx.compose.ui.layout.Placeable
 import androidx.compose.ui.layout.layoutId
 import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.unit.Constraints
-import com.example.kmmreduxtemplate.values.Dimensions
+import com.turbosokol.kmmreduxtemplate.values.Dimensions
 import kotlin.math.max
 import kotlin.math.roundToInt
 

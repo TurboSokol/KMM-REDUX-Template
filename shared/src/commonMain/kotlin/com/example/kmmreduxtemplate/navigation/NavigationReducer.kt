@@ -1,7 +1,7 @@
-package com.example.kmmreduxtemplate.navigation
+package com.turbosokol.kmmreduxtemplate.navigation
 
-import com.example.kmmreduxtemplate.core.redux.Action
-import com.example.kmmreduxtemplate.core.redux.Reducer
+import com.turbosokol.kmmreduxtemplate.core.redux.Action
+import com.turbosokol.kmmreduxtemplate.core.redux.Reducer
 
 /***
  *If this code runs it was created by Evgenii Sokol.

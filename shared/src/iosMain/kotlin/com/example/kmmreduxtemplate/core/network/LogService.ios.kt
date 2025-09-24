@@ -1,4 +1,4 @@
-package com.example.kmmreduxtemplate.core.network
+package com.turbosokol.kmmreduxtemplate.core.network
 
 import platform.Foundation.NSLog
 import kotlin.time.ExperimentalTime

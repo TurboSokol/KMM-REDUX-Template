@@ -1,8 +1,8 @@
-package com.example.kmmreduxtemplate.di
+package com.turbosokol.kmmreduxtemplate.di
 
-import com.example.kmmreduxtemplate.core.di.apiModule
-import com.example.kmmreduxtemplate.core.di.serviceModule
-import com.example.kmmreduxtemplate.core.di.storeModule
+import com.turbosokol.kmmreduxtemplate.core.di.apiModule
+import com.turbosokol.kmmreduxtemplate.core.di.serviceModule
+import com.turbosokol.kmmreduxtemplate.core.di.storeModule
 import org.koin.core.context.startKoin
 import org.koin.dsl.KoinAppDeclaration
 import kotlin.time.ExperimentalTime

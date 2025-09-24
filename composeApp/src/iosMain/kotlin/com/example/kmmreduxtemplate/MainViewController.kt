@@ -1,7 +1,7 @@
-package com.example.kmmreduxtemplate
+package com.turbosokol.kmmreduxtemplate
 
 import androidx.compose.ui.window.ComposeUIViewController
-import com.example.kmmreduxtemplate.di.initKoinForCompose
+import com.turbosokol.kmmreduxtemplate.di.initKoinForCompose
 
 /***
  *If this code runs it was created by Evgenii Sokol.

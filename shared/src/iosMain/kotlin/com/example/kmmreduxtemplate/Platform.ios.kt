@@ -1,4 +1,4 @@
-package com.example.kmmreduxtemplate
+package com.turbosokol.kmmreduxtemplate
 
 import platform.UIKit.UIDevice
 

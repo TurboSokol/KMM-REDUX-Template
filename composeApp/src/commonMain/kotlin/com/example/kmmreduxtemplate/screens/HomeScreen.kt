@@ -1,4 +1,4 @@
-package com.example.kmmreduxtemplate.screens
+package com.turbosokol.kmmreduxtemplate.screens
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
@@ -17,8 +17,8 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import com.example.kmmreduxtemplate.getPlatform
-import com.example.kmmreduxtemplate.viewmodel.ReduxViewModel
+import com.turbosokol.kmmreduxtemplate.getPlatform
+import com.turbosokol.kmmreduxtemplate.viewmodel.ReduxViewModel
 import kmmreduxtemplate.composeapp.generated.resources.Res
 import kmmreduxtemplate.composeapp.generated.resources.compose_multiplatform
 import org.jetbrains.compose.resources.painterResource

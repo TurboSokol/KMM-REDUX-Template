@@ -1,4 +1,4 @@
-package com.example.kmmreduxtemplate.repository
+package com.turbosokol.kmmreduxtemplate.repository
 
 /***
  *If this code runs it was created by Evgenii Sokol.

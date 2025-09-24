@@ -1,8 +1,8 @@
-package com.example.kmmreduxtemplate.navigation
+package com.turbosokol.kmmreduxtemplate.navigation
 
-import com.example.kmmreduxtemplate.core.redux.Action
-import com.example.kmmreduxtemplate.core.redux.GeneralState
-import com.example.kmmreduxtemplate.screensStates.HomeScreenState
+import com.turbosokol.kmmreduxtemplate.core.redux.Action
+import com.turbosokol.kmmreduxtemplate.core.redux.GeneralState
+import com.turbosokol.kmmreduxtemplate.screensStates.HomeScreenState
 
 /***
  *If this code runs it was created by Evgenii Sokol.

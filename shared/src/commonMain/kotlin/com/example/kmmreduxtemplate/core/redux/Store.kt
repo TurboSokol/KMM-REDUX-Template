@@ -1,7 +1,7 @@
-package com.example.kmmreduxtemplate.core.redux
+package com.turbosokol.kmmreduxtemplate.core.redux
 
-import com.example.kmmreduxtemplate.core.redux.app.AppState
-import com.example.kmmreduxtemplate.core.redux.app.RootReducer
+import com.turbosokol.kmmreduxtemplate.core.redux.app.AppState
+import com.turbosokol.kmmreduxtemplate.core.redux.app.RootReducer
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow

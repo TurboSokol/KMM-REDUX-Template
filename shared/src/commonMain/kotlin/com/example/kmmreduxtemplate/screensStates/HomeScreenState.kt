@@ -1,7 +1,7 @@
-package com.example.kmmreduxtemplate.screensStates
+package com.turbosokol.kmmreduxtemplate.screensStates
 
-import com.example.kmmreduxtemplate.core.redux.Action
-import com.example.kmmreduxtemplate.core.redux.GeneralState
+import com.turbosokol.kmmreduxtemplate.core.redux.Action
+import com.turbosokol.kmmreduxtemplate.core.redux.GeneralState
 
 /***
  *If this code runs it was created by Evgenii Sokol.

@@ -1,6 +1,6 @@
-package com.example.kmmreduxtemplate.di
+package com.turbosokol.kmmreduxtemplate.di
 
-import com.example.kmmreduxtemplate.viewmodel.ReduxViewModel
+import com.turbosokol.kmmreduxtemplate.viewmodel.ReduxViewModel
 import org.koin.core.module.dsl.viewModel
 import org.koin.dsl.module
 

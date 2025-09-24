@@ -1,11 +1,11 @@
-package com.example.kmmreduxtemplate.core.redux.app
+package com.turbosokol.kmmreduxtemplate.core.redux.app
 
-import com.example.kmmreduxtemplate.Platform
-import com.example.kmmreduxtemplate.core.redux.Action
-import com.example.kmmreduxtemplate.core.redux.GeneralState
-import com.example.kmmreduxtemplate.getPlatform
-import com.example.kmmreduxtemplate.navigation.NavigationState
-import com.example.kmmreduxtemplate.screensStates.HomeScreenState
+import com.turbosokol.kmmreduxtemplate.Platform
+import com.turbosokol.kmmreduxtemplate.core.redux.Action
+import com.turbosokol.kmmreduxtemplate.core.redux.GeneralState
+import com.turbosokol.kmmreduxtemplate.getPlatform
+import com.turbosokol.kmmreduxtemplate.navigation.NavigationState
+import com.turbosokol.kmmreduxtemplate.screensStates.HomeScreenState
 
 /***
  *If this code runs it was created by Evgenii Sokol.

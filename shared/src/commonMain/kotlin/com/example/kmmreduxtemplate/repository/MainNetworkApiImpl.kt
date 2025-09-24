@@ -1,6 +1,6 @@
-package com.example.kmmreduxtemplate.repository
+package com.turbosokol.kmmreduxtemplate.repository
 
-import com.example.kmmreduxtemplate.core.network.KtorWebService
+import com.turbosokol.kmmreduxtemplate.core.network.KtorWebService
 
 /***
  *If this code runs it was created by Evgenii Sokol.

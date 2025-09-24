@@ -1,4 +1,4 @@
-package com.example.kmmreduxtemplate.core.redux
+package com.turbosokol.kmmreduxtemplate.core.redux
 
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableSharedFlow

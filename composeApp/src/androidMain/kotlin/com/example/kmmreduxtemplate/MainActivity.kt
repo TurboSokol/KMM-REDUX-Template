@@ -1,4 +1,4 @@
-package com.example.kmmreduxtemplate
+package com.turbosokol.kmmreduxtemplate
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

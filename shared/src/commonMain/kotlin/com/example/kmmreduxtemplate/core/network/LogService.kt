@@ -1,9 +1,9 @@
-package com.example.kmmreduxtemplate.core.network
+package com.turbosokol.kmmreduxtemplate.core.network
 
-import com.example.kmmreduxtemplate.core.redux.Action
-import com.example.kmmreduxtemplate.core.redux.Effect
-import com.example.kmmreduxtemplate.core.redux.Store
-import com.example.kmmreduxtemplate.core.redux.app.AppState
+import com.turbosokol.kmmreduxtemplate.core.redux.Action
+import com.turbosokol.kmmreduxtemplate.core.redux.Effect
+import com.turbosokol.kmmreduxtemplate.core.redux.Store
+import com.turbosokol.kmmreduxtemplate.core.redux.app.AppState
 import io.ktor.client.plugins.logging.Logger
 import org.koin.core.component.KoinComponent
 import org.koin.core.component.inject

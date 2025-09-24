@@ -1,9 +1,9 @@
-package com.example.kmmreduxtemplate.navigation
+package com.turbosokol.kmmreduxtemplate.navigation
 
-import com.example.kmmreduxtemplate.core.redux.Action
-import com.example.kmmreduxtemplate.core.redux.Effect
-import com.example.kmmreduxtemplate.core.redux.Middleware
-import com.example.kmmreduxtemplate.core.redux.app.AppState
+import com.turbosokol.kmmreduxtemplate.core.redux.Action
+import com.turbosokol.kmmreduxtemplate.core.redux.Effect
+import com.turbosokol.kmmreduxtemplate.core.redux.Middleware
+import com.turbosokol.kmmreduxtemplate.core.redux.app.AppState
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.emptyFlow

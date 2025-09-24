@@ -1,10 +1,10 @@
-package com.example.kmmreduxtemplate.viewmodel
+package com.turbosokol.kmmreduxtemplate.viewmodel
 
 import androidx.lifecycle.ViewModel
-import com.example.kmmreduxtemplate.core.redux.Action
-import com.example.kmmreduxtemplate.core.redux.Effect
-import com.example.kmmreduxtemplate.core.redux.Store
-import com.example.kmmreduxtemplate.core.redux.app.AppState
+import com.turbosokol.kmmreduxtemplate.core.redux.Action
+import com.turbosokol.kmmreduxtemplate.core.redux.Effect
+import com.turbosokol.kmmreduxtemplate.core.redux.Store
+import com.turbosokol.kmmreduxtemplate.core.redux.app.AppState
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job

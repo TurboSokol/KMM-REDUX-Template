@@ -1,4 +1,4 @@
-package com.example.kmmreduxtemplate.data
+package com.turbosokol.kmmreduxtemplate.data
 
 import kotlinx.serialization.Serializable
 
